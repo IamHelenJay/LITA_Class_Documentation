@@ -44,5 +44,6 @@ The primary sourace of Data used here is
 ''' SQL
 
     SELECT * FROM TABLE1
+    WHERE CONDITION = TABLE
     
   
