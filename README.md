@@ -5,13 +5,12 @@ This where I documented my first project while learning Data Analysis in Incubat
 ### Project Title: Schedule Of Pioneer Staff Analysis
 
 ---
-[Project Overview].(#project-overview).
-Data Sources
 
 #### Project Overview
 ---
 The Data Analysis Utilize the pioneer staff schedule for a detailed analysis to streamline workforce utilization, operational efficiency and employee satisfaction.
- 
+This initiative will provide a critical analysis of the existing scheduling process, opportunities for improvement and recommendations that ensure necessary enhancements to realize efficiencies.
+
 ### Data Sources
 ---
 The primary sourace of Data used here is 
