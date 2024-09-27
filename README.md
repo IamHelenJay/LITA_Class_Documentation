@@ -49,3 +49,7 @@ The primary sourace of Data used here is
   ### Data Visualization
   ---
 [Presentation111.pptx](https://github.com/user-attachments/files/17169050/Presentation111.pptx)
+
+|Heading 1|Heading 2|Heading 3|
+|--------|--------|--------
+|Table 1 |Table 2|Table3|
