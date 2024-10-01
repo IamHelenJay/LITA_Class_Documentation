@@ -13,7 +13,11 @@ This initiative will provide a critical analysis of the existing scheduling proc
 
 ### Data Sources
 ---
-The primary sourace of Data used here is 
+The primary sourace of Data used here is:
+1. HR Management System (HRMS)
+2. Payroll software
+3. Employee database
+
 
 ### Tools Used
 ---
@@ -22,7 +26,8 @@ The primary sourace of Data used here is
   2. For Analysis
   3. For Data Visualization
      
-- SQL- Structured Query Language for Querying of Data
+- SQL- Structured Queries and data retrieval
+
 - GitHub for Portfolio Building
 
 - ### Data Cleaning and Preparations
