@@ -25,6 +25,7 @@ The primary sourace of Data used here is:
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
+     
     (https://1drv.ms/x/s!Ap5Z5GRl9j5YhcUYNOxRFSRIFLMxbA)
      
 - SQL- Structured Queries and data retrieval
@@ -50,11 +51,10 @@ The primary sourace of Data used here is:
    ---
    This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
-''' SQL
-
+``` SQL
 1. SELECT * FROM pioneer
 2. SELECT * FROM pioneer_staff WHERE salary = 3,426,608
- 
+   ```
   
   ### Data Visualization
   ---
