@@ -28,16 +28,17 @@ The primary sourace of Data used here is
 - ### Data Cleaning and Preparations
 - ---
   In the initial stage of the Data cleaning and preparations, we performed the following actions;
-  1. Data koading and Inspection
+  1. Data loading and Inspection
   2. Handling missing variables
   3. Data cleaning and formating
  
   ### Exploratoty Data Analysis
   ---
   EDA involved the exploring of the Data to answer some questions about the Data such as;
- - What is the overall sales trend
- - which product are top sellers
- - what are the products on peak sales?
+ - What is the average salary across all companies?
+ - Which company has the highest average salary?
+ - How many employees are represented in the dataset?
+
 
    ### Data Analysis
    ---
