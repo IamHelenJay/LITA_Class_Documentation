@@ -51,17 +51,10 @@ The primary sourace of Data used here is:
 
 ''' SQL
 
-1. Retrieve all data:
-   SELECT * FROM pioneer_staff;
-
-2. Retrieve staff with salary > 3,426,608
-   SELECT * 
-   FROM pioneer_staff 
-   WHERE salary > 3,426,608;
-
-
-
-    
+1. SELECT * FROM pioneer
+2. SELECT * FROM pioneer_staff WHERE salary = 3,426,608
+ 
+  
   ### Data Visualization
   ---
  
