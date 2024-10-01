@@ -53,8 +53,9 @@ The primary sourace of Data used here is:
 
 ``` SQL
 1. SELECT * FROM pioneer_staff
+```
 
----
+```
 2. SELECT * FROM pioneer_staff WHERE salary > 3,426,608
    ```
   
