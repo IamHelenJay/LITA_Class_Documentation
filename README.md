@@ -51,8 +51,18 @@ The primary sourace of Data used here is:
 
 ''' SQL
 
-    SELECT * FROM TABLE1
-    WHERE CONDITION = TABLE
+1.    Retrieve all data:
+
+SELECT * FROM pioneer_staff;
+
+2.  Retrieve staff with salary > 3,426,608
+   
+SELECT * 
+FROM pioneer_staff 
+WHERE salary > 3,426,608;
+
+
+
     
   ### Data Visualization
   ---
